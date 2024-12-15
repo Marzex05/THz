@@ -1,2 +1,2 @@
-# THz
-Mobile port of the Terahertz client for Minecraft bedrock is under production!! Working prototypes on our website.
+# (THz) Terahertz client for Minecraft Bedrock Edition
+## Mobile port is under production!! Working prototypes on our website. Stay tuned for Christmas!
